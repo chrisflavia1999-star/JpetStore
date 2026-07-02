@@ -1,0 +1,14 @@
+1783024193907,1350,Launch,200,,Thread Group 1-1,text,true,,5664,477,1,1,https://petstore.octoperf.com/actions/Catalog.action,1349,0,1152
+1783024195287,351,Login,200,,Thread Group 1-1,text,true,,6152,1679,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=D816B9782FB21330FCF933BF3229E2C5,177,0,0
+1783024195287,177,Login-0,302,,Thread Group 1-1,,true,,349,944,1,1,https://petstore.octoperf.com/actions/Account.action,177,0,0
+1783024195471,167,Login-1,200,,Thread Group 1-1,text,true,,5803,735,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=D816B9782FB21330FCF933BF3229E2C5,166,0,0
+1783024195639,169,Login,200,,Thread Group 1-1,text,true,,5664,603,1,1,https://petstore.octoperf.com/actions/Catalog.action,168,0,0
+1783024195810,166,Select Category,200,,Thread Group 1-1,text,true,,4269,578,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS,165,0,0
+1783024195977,165,select Product,200,,Thread Group 1-1,text,true,,4423,609,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=AV-SB-02,165,0,0
+1783024196144,167,Add to cart,200,,Thread Group 1-1,text,true,,5360,612,1,1,https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&workingItemId=EST-19,166,0,0
+1783024196312,170,proceed to checkout,200,,Thread Group 1-1,text,true,,4779,591,1,1,https://petstore.octoperf.com/actions/Order.action?newOrderForm=,169,0,0
+1783024196483,170,continue,200,,Thread Group 1-1,text,true,,5053,1164,1,1,https://petstore.octoperf.com/actions/Order.action,170,0,0
+1783024196654,335,logout,200,,Thread Group 1-1,text,true,,5969,1149,1,1,https://petstore.octoperf.com/actions/Catalog.action,166,0,0
+1783024196654,166,logout-0,302,,Thread Group 1-1,,true,,305,579,1,1,https://petstore.octoperf.com/actions/Account.action?signoff=,166,0,0
+1783024196821,168,logout-1,200,,Thread Group 1-1,text,true,,5664,570,1,1,https://petstore.octoperf.com/actions/Catalog.action,167,0,0
+1783024196990,163,logout,200,,Thread Group 1-1,text,true,,5664,570,1,1,https://petstore.octoperf.com/actions/Catalog.action,162,0,0
